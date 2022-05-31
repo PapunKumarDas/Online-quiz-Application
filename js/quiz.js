@@ -1,13 +1,13 @@
 let quiz=[
     {
-        question:"How are java web applications packaged?",
+        question:"Which of the following option leads to the portability and security of Java?",
         option:[
-            "1.jar",
-            "2.war",
-            "3.zip",
-            "4.jar and war",
+            "1.Bytecode is executed by JVM",
+            "2.The applet makes the Java code secure and portable",
+            "3.Use of exception handling",
+            "4.Dynamic binding between objects",
         ],
-        answer:4,
+        answer:1,
     },
     {
         question:"How can we take input text from user in HTML page?",
@@ -31,24 +31,24 @@ let quiz=[
         answer:4,
     },
     {
-        question:"What type of protocol is HTTP?",
+        question:"_____ is used to find and fix bugs in the Java programs.",
         option:[
-            "1.stateless",
-            "2.stateful",
-            "3.transfer protocol",
-            "4.information protocol",   
+            "1.JVM",
+            "2.JRE",
+            "3.JDK",
+            "4.JDB",   
         ],
-        answer:1,
+        answer:4,
 
     },
     {
-        question:"Servlet are used to program which component in a web application",
+        question:"Which of the following is not a Java features?",
         option:[
-            "1.client",
-            "2.server",
-            "3.tomcat",
-            "4.applet",   
+            "1.Dynamic",
+            "2.Architecture Neutral",
+            "3.Use of pointers",
+            "4.Object-oriented",  
         ],
-        answer:2,
+        answer:3,
     }
 ]
